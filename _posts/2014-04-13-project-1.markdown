@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-04-13
+date: 2021-04-18
 img: cabin.png
 alt: image-alt
 project-date: January 2021
-client: Start Bootstrap
+client: The Client
 category: Web Development
-description: CalCOFI2 Project: pH and larval fish
+description: The description of the project
 ---
