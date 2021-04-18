@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: CalCOFI
-date: 2021-04-13
+modal-id: 1
+date: 2014-04-13
 img: cabin.png
 alt: image-alt
 project-date: January 2021 - Present
