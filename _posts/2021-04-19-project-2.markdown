@@ -2,11 +2,11 @@
 layout: default
 modal-id: 2
 date: 2021-04-19
-img: cake.png
+img: circus.png
 alt: image-alt
-project-date: January 2021 - Present
-project: CalCOFI & UCSB Data Science
-project-link: https://ucsb-ds-capstone-2021.github.io/projects/calcofi2/description.html
-category: Fellowship/Research
-description: I am currently working on a team project through the UCSB Data Science Fellowship with our sponsor, CalCOFI. The goal of the project is to explore the impact of climate change on the pH of California ocean water and its relationship to larval fish abundance. We are utilizing two datasets, both collected by CalCOFI and include water characteristics and larval fish abundance, to estimate pH and correlate it with fluctuating larval fish abundance. In regards to software and skills, my group is utilizing R/RStudio, Python, data visualizations, data processing and eventually machine learning methods. 
+project-date: December 2020
+project: Data Wrangling - Boulder Festival
+project-link: https://github.com/robin-hollingsworth/Data-Wrangling-Project
+category: Class Project
+description: This was my final project for my ECON 145 Data Wrangling class in fall of 2020. The class was given a dataset containing data about a ficticious  festival held in Boulder, Colorado, including visitor demogrpahics and spending habits. This festival was supposed to bring in vistors and revenue to the town of Boulder and we were to determine if it was successful. The purpose of the assingment was to explore different aspects of the dataset to determine where the festival succeeded, failed, and important highlights of the data. I used R to work with the data, create visualizations and the final product was produced in RMarkdown.
 ---
