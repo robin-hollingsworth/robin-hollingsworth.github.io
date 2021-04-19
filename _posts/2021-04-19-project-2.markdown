@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2021-04-19
+img: cake.png
+alt: image-alt
+project-date: January 2021 - Present
+project: CalCOFI & UCSB Data Science
+project-link: https://ucsb-ds-capstone-2021.github.io/projects/calcofi2/description.html
+category: Fellowship/Research
+description: I am currently working on a team project through the UCSB Data Science Fellowship with our sponsor, CalCOFI. The goal of the project is to explore the impact of climate change on the pH of California ocean water and its relationship to larval fish abundance. We are utilizing two datasets, both collected by CalCOFI and include water characteristics and larval fish abundance, to estimate pH and correlate it with fluctuating larval fish abundance. In regards to software and skills, my group is utilizing R/RStudio, Python, data visualizations, data processing and eventually machine learning methods. 
+---
