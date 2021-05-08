@@ -1,8 +1,9 @@
 ---
+title: Graduate Careers and Salaries Module
 layout: default
 modal-id: 3
 date: 2021-04-20
-img: safe.png
+img: grad.jpg
 alt: image-alt
 project-date: Novemeber 2020
 project: Intro Data Science Module
