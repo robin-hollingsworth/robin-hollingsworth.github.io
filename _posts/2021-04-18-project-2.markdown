@@ -8,6 +8,6 @@ alt: image-alt
 project-date: December 2020
 project: Data Wrangling - Boulder Festival
 project-link: https://github.com/robin-hollingsworth/Data-Wrangling-Project
-category: Class Project
+category: Project
 description: This was my final project for my ECON 145 Data Wrangling class in fall of 2020. The class was given a dataset containing data about a ficticious  festival held in Boulder, Colorado, including visitor demogrpahics and spending habits. This festival was supposed to bring in vistors and revenue to the town of Boulder and we were to determine if it was successful. The purpose of the assingment was to explore different aspects of the dataset to determine where the festival succeeded, failed, and important highlights of the data. I used R to work with the data, create visualizations and the final product was produced in RMarkdown.
 ---
