@@ -6,7 +6,7 @@ date: 2021-04-20
 img: grad.jpg
 alt: image-alt
 project-date: Novemeber 2020
-project: Intro Data Science Module
+project: Graduate Careers and Salaries Module
 project-link: https://github.com/robin-hollingsworth/Intro-DS-Module
 category: Education
 description: As a part of the UCSB Data Science Fellowship, I got the opportunity to serve on the Tutoring Committee and create a data science activity for an introductory data science course offered at UCSB. My module explored a dataset from Kaggle on post-undergraduate jobs and salaries. The class uses a Python package called _datascience_ and the module was created in a Jupyter Notebook.
